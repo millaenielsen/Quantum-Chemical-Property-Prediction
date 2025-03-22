@@ -6,3 +6,4 @@ Objective: develop a graph neural network model that can accurately predict the
 HOMO-LUMO energy gap of molecules, achieving better performance than the GIN-virtual baseline
 (MAE: 0.1083 on validation).
 
+Baseline code: https://github.com/snap-stanford/ogb/tree/master/examples/lsc/pcqm4m-v2
